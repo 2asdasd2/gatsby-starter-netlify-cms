@@ -1,19 +1,13 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Δήμος Πεταλούδων
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+![](https://www.google.com/maps/vt/data=uXiNMTqr16inFq1NeBOhT8oncEeTXlJNvPLM214pqlNAuvO7V1AvNLnU9kbxZQqW28wMLpG8OsNShS44zSEETl2MSXp_llqTOA2xP7UeLmR2MiTKwNUBT815o51OqW7k1vSENbQTweGCX-qVqpjMqJdVjU6SJzeFflksM-FTQjVAYDbuJnEmoGwPbjpQtcO4xJP4I75bs0WQLqNifTMgxeUH8WNB5Z5DBbXnVKkmsWpY1OWIAttmXhDQmdJHglACCxdGce6yngQVuQlg6TMmXAdS_kdFLr8A5W0o5qviWciB3DIVL2TQlb0_okjSkdW_MFfGR6ovHj-4v1KB3g)
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
-
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Ο Δήμος Πεταλούδων ήταν ένας από τους δέκα δήμους στους οποίους διαιρούνταν διοικητικά η Ρόδος, την περίοδο που ίσχυσε το πρόγραμμα Καποδίστριας. Λειτούργησε την περίοδο 1999-2010, οπότε και καταργήθηκε με την εφαρμογή του προγράμματος Καλλικράτης και εντάχθηκε στο νέο δήμο Ρόδου. Βικιπαίδεια
+Εμβαδόν: 89,2 km²
+Δήμος: Ρόδος
+Ξενοδοχεία: 65 € κατά μέσο όρο σε ξενοδοχεία με 3 αστέρια. Προβολή ξενοδοχείων
+Πληθυσμός: 12.133 (απογραφή 2001)
+Διοικητική περιφέρεια: Περιφέρεια Νοτίου Αιγαίου
